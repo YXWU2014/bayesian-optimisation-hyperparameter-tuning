@@ -26,6 +26,3 @@ The goal of this project is to build a model capable of predicting house prices 
 
 The entire process is run using Python and makes use of libraries such as numpy, pandas, Tensorflow, Keras, sklearn, GPyOpt, joblib, seaborn, and matplotlib.
 
-### Impact
-
-The resulting model can be used by real estate companies or individuals to predict the price of houses in the Boston area, given a set of features. This can assist in decision-making processes related to buying or selling houses. Additionally, the use of Bayesian Optimization demonstrates a method for tuning neural network hyperparameters that can generalise to other data sets and model types.
